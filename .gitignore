@@ -9,3 +9,4 @@
 /server/AppConfig.json
 /server/dist
 /serverTS
+package-lock.json
