@@ -10,3 +10,4 @@
 /server/dist
 /serverTS
 package-lock.json
+node_modules
